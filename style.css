@@ -106,3 +106,12 @@ ol{
      bottom: 200px;
     left: 840px;
 }
+.final{
+    text-align: center;
+}
+.final h3{
+    color: gray;
+}
+.final p{
+    color: black;
+}
